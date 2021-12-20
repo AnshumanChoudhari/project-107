@@ -1,0 +1,32 @@
+body{
+   background:lightcoral ; 
+   background-image:linear-gradient(to right top, #0400f8, rgb(200, 0, 0), #66ff00, #ff7b00, #d9ff00, #a200ff, #ff00c8); float: none;border-radius: 15px;
+}
+.copy_right_footer{
+    position: fixed;
+    font-family: 'Rock 3D', cursive;
+    color: rgb(0, 37, 246);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background:violet;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+.header_div{
+    background: lightsalmon;
+    color: orangered;
+}
+.header_div p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
